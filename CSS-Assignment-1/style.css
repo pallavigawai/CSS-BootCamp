@@ -1,0 +1,41 @@
+.box {
+  background-color: lightgreen;
+  margin: 50px auto;
+  padding: 100px 30px;
+  width: 500px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+.btn {
+  border-radius: 14px;
+  border: none;
+  color: black;
+  background-color: 10px solid white;
+  padding: 7px 20px;
+}
+
+.card {
+  border: 2px solid lightgrey;
+  margin: 50px auto;
+  width: 500px;
+  border-radius: 14px;
+  padding: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+.round {
+  width: 20%;
+  height: 60px;
+
+  border-radius: 8%;
+  margin: 50px;
+}
+.line {
+  background-color: #d1d1d1;
+}
+
+.para {
+  color: #2478ed;
+  font-weight: 600;
+  margin-left: 16px;
+}
